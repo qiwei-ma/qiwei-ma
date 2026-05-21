@@ -14,7 +14,7 @@ I’m currently a Research Assistant at The Education University of Hong Kong.
 ### 🔬 Research Focus
 
 
-> My current research focuses on **robotics**, **embodied intelligence**, and **AI in Education**, with broader interests in **Large Language Models** and **multi-agent systems**.
+> My current research focuses on **Agentic AI**, **Embodied Intelligence**, and **AI in Education**.
 
 
 I will be applying for **PhD positions for Fall 2027** entry and am also open to earlier opportunities after completing my RA contract.
@@ -33,7 +33,7 @@ I am always happy to connect with researchers and students working on related to
 
 <img src="https://img.shields.io/badge/Agentic AI-0f766e?style=flat-square" alt="Agentic AI" />
 <img src="https://img.shields.io/badge/Embodied%20Intelligence-0ea5e9?style=flat-square" alt="Embodied Intelligence" />
-<img src="https://img.shields.io/badge/AI%20for%20Education-f59e0b?style=flat-square" alt="AI in Education" />
+<img src="https://img.shields.io/badge/AI%20in%20Education-f59e0b?style=flat-square" alt="AI in Education" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mqiwei@eduhk.hk)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=9FHf45gAAAAJ)
